@@ -1,0 +1,17 @@
+[
+    {
+      "icon": "MdPlace",
+      "title": "Find us",
+      "details": "Warangal, Telangana"
+    },
+    {
+      "icon": "IoCallSharp",
+      "title": "Call us",
+      "details": "8800001111"
+    },
+    {
+      "icon": "TbMailPlus",
+      "title": "Mail us",
+      "details": "abcd12345@gmail.com"
+    }
+  ]

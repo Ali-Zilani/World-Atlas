@@ -1,0 +1,128 @@
+[
+    {
+      "id": 1,
+      "countryName": "World",
+      "capital": "No Capital",
+      "population": "Null",
+      "interestingFact": "There are 195 countries in the world today, including 193 United Nations member states and 2 observer states."
+    },
+    {
+      "id": 2,
+      "countryName": "Nepal",
+      "capital": "Kathmandu",
+      "population": 29609623,
+      "interestingFact": "Nepal is home to Mount Everest, the tallest mountain in the world, standing at 8,848 meters."
+    },
+    {
+      "id": 3,
+      "countryName": "Egypt",
+      "capital": "Cairo",
+      "population": 104258327,
+      "interestingFact": "The Pyramids of Giza are one of the Seven Wonders of the Ancient World."
+    },
+    {
+      "id": 4,
+      "countryName": "Australia",
+      "capital": "Canberra",
+      "population": 25687041,
+      "interestingFact": "Australia is home to the Great Barrier Reef, the largest coral reef system in the world."
+    },
+    {
+      "id": 5,
+      "countryName": "Brazil",
+      "capital": "Brasilia",
+      "population": 213993437,
+      "interestingFact": "Brazil is home to the Amazon Rainforest, the largest tropical rainforest in the world."
+    },
+    {
+      "id": 6,
+      "countryName": "France",
+      "capital": "Paris",
+      "population": 67407241,
+      "interestingFact": "The Eiffel Tower in Paris was once the tallest man-made structure in the world."
+    },
+    {
+      "id": 7,
+      "countryName": "Russia",
+      "capital": "Moscow",
+      "population": 1324216107,
+      "interestingFact": "Russia is the largest country in the world by area, covering more than 17 million square kilometers."
+    },
+    {
+      "id": 8,
+      "countryName": "China",
+      "capital": "Beijing",
+      "population": 1444216107,
+      "interestingFact": "The Great Wall of China is visible from space on rare occasions."
+    },
+    {
+      "id": 9,
+      "countryName": "India",
+      "capital": "New Delhi",
+      "population": 1407563842,
+      "interestingFact": "India is the second most populous country in the world, with over 1.4 billion people."
+    },
+    {
+      "id": 10,
+      "countryName": "Pakistan",
+      "capital": "Islamabad",
+      "population": 241708580,
+      "interestingFact": "Pakistan is home to K2, the second-highest mountain in the world."
+    },
+    {
+      "id": 11,
+      "countryName": "Bangladesh",
+      "capital": "Dhaka",
+      "population": 176058268,
+      "interestingFact": "The Sundarbans in Bangladesh is the largest mangrove forest in the world and a UNESCO World Heritage site."
+    },
+    {
+      "id": 12,
+      "countryName": "Saudi Arabia",
+      "capital": "Riyadh",
+      "population": 36267072,
+      "interestingFact": "Saudi Arabia is home to Mecca, the holiest city in Islam."
+    },
+    {
+      "id": 13,
+      "countryName": "Japan",
+      "capital": "Tokyo",
+      "population": 124612531,
+      "interestingFact": "Tokyo is the most populous city in the world, with more than 37 million residents."
+    },
+    {
+      "id": 14,
+      "countryName": "United States",
+      "capital": "Washington, D.C.",
+      "population": 339996563,
+      "interestingFact": "The U.S. is the third-largest country in both area and population."
+    },
+    {
+      "id": 15,
+      "countryName": "United Kingdom",
+      "capital": "London",
+      "population": 67391824,
+      "interestingFact": "The British Museum in London holds over 8 million works from around the world."
+    },
+    {
+      "id": 16,
+      "countryName": "Germany",
+      "capital": "Berlin",
+      "population": 84383034,
+      "interestingFact": "Germany is home to the Autobahn, one of the fastest road networks in the world."
+    },
+    {
+      "id": 17,
+      "countryName": "South Africa",
+      "capital": "Pretoria (administrative), Bloemfontein (judicial), Cape Town (legislative)",
+      "population": 60934018,
+      "interestingFact": "South Africa has three capital cities, each serving a different purpose."
+    },
+    {
+      "id": 18,
+      "countryName": "Mexico",
+      "capital": "Mexico City",
+      "population": 128990134,
+      "interestingFact": "Mexico City is one of the oldest continuously inhabited cities in the Americas."
+    }
+  ]
